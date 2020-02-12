@@ -1,0 +1,2 @@
+ID,Image,Name,Desc,Job,EQJob,Atk,Hp,Type,Delay,EImage
+30000,s_axe,평범한 도끼,"손에 물집이 잡혀도 나는..!",false,0x00,0x04,0x00,0x0001000000000000,0x02,a_axe

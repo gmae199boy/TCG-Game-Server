@@ -1,0 +1,3 @@
+ID,Image,Name,Desc,Job,EQJob,Atk,Hp,Type,Delay,EImage
+10000,s_bash,도발,"젊은 날의 치기. 그것은 모두를 도발하기에 충분했다.",0x00,0x00,0x03,0x00,0x0000000200000000,0x05,a_bash
+10001,s_magicMissile,마법 탄환,"아브라카다브..합!",0x14,0x14,0x01,0x00,0x0008000000000000,0x05,a_magicmissile

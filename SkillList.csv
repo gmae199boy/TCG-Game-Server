@@ -1,0 +1,2 @@
+ID,Image,Name,Desc,Job,EQJob,Atk,Hp,Type,Delay,EImage
+20000,s_bash,강타,"내가 10년만 젊었어도..!",false,0x00,0x05,0x00,0x0001000000000000,0x02,a_bash
